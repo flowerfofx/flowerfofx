@@ -10,7 +10,7 @@
 <summary></summary>
 
 ```js
-import Desenvolvedor from 'S K Y D A Z';
+import Desenvolvedor from 'F L O W E R';
 
 class SobreMim extends Desenvolvedor {
   area    = 'Desenvolvimento WEB';
