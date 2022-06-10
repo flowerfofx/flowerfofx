@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**flowerfofx/flowerfofx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p align="center">
+ <a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=python,js,css,nodejs,html,php" />
+	</a>
+</p>
 
-Here are some ideas to get you started:
+<h4 align="center">
+<details>
+<summary></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+import Desenvolvedor from 'S K Y D A Z';
+
+class SobreMim extends Desenvolvedor {
+  area    = 'Desenvolvimento WEB';
+  jobs    = 'Servidores de Minecraft, desenvolvimento de sites e criação de BOTS' }
+```
